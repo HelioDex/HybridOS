@@ -1,5 +1,8 @@
 
+# thanks for looking at our old code
+
 #∴ HybridOS Python 3 Indev version 2.14.4
+
 
 try:
 
@@ -201,6 +204,7 @@ try:
     
     #∴ If this is a HybridOS distro, leave the credits "Original HybridOS by Venimuex & Zonetech" in the program.
     #∴ Also leave the systest somewhere in the program and on the error screen.
+    #∴ Don't actually, this code is free now.
     
     sleep(.100)
 
