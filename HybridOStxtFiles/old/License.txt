@@ -1,0 +1,91 @@
+
+This software end user license agreement (hereinafter “Agreement”) is made
+between you or, if you represent a legal entity, that legal entity (hereinafter
+“You”) and “Venimuex & ZoNeTech”, the copyleft holders and Programmers (hereinafter “Official HybridOS Programmers”)
+of the Python 3 program named “HybridOS”.
+
+1. BINDING AGREEMENT
+This Agreement is a binding agreement between You and the Official HybridOS Programmers and
+shall set forth the terms and conditions under which You can use HybridOS. For the purposes of this 
+Agreement, this shall mean HybridOS, and any parts or copies of it.
+
+2. GRANT OF NON-EXCLUSIVE AND LICENCE
+The Official HybridOS Programmers hereby grants You a non-exclusive, non-transferable licence to
+use, but NOT remix and distribute, HybridOS provided that You comply with all terms and conditions of this Agreement.
+
+2.1 BACKUP
+You may make copies of HybridOS, provided that You retain
+exclusive custody and control over such copies. Any
+backup copy of the Original HybridOS must contain the same copyleft, trademark, and
+other proprietary information as the original.
+
+3. ATTRIBUTION
+If You make Your Work publicly accessible in any form, You must keep intact all
+copyleft notices for HybridOS and display, reasonable to the medium or
+means You are utilizing for Your Work, an attribution notice (hereinafter “The
+Attribution Notice”) comprising of:
+
+The Attribution Notice may be implemented in any reasonable manner. For the
+avoidance of doubt, You may only use the credit required by this Section for the
+purpose of attribution in the manner set out above and, by exercising Your
+rights under this License, You shall explicitly assert every connection with, 
+sponsorship or endorsement by the Official HybridOS Programmers of You or Your Work.
+
+4. YOUR REPRESENTATIONS AND INDEMNIFICATIONS
+You represent, warrant, and covenant that You shall use HybridOS only
+in accordance with the terms of this Agreement and keep the Official HybridOS Programmers fully
+indemnified against all actions, claims, costs, proceedings and damages
+whatsoever incurred by any breach of any of the aforesaid representations,
+warranties of this Agreement.
+
+5. OWNERSHIP AND RIGHTS TO HybridOS
+The Official HybridOS Programmers reserves all rights not expressly granted to You in this
+Agreement (hereinafter “Reserved Rights”). HybridOS is protected by
+copyleft and other intellectual property laws and treaties. You acknowledge
+that the Official HybridOS Programmers shall be the sole owner of HybridOS, of the
+copyleft and all Reserved Rights of whatever kind and nature in the HybridOS.
+
+6. WARRANTY
+HybridOS is made available “as is” WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF
+copyleft, PATENT, TRADEMARK, OR OTHER RIGHT.THE OFFICIAL HYBRIDOS PROGRAMMERS DO NOT AND
+CANNOT GUARANTEE THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING HYBRIDOS.
+
+7. TERMINATION / CONDITION PRECEDENT
+You may use HybridOS only as set forth in this Agreement. Any use of
+HybridOS that is not expressly allowed in this Agreement will
+automatically terminate Your rights to use HybridOS under this
+Agreement.  If Your right to use HybridOS is terminated You shall
+immediately stop using HybridOS, call back or change any Work that is
+used in the public, and delete/destroy any copies or distrobutions of HybridOS. The
+termination of the Agreement shall not affect the right of the Official HybridOS Programmers to
+claim damages or other rights.
+
+8. WAIVER
+A waiver by either Party of any term or condition of this Agreement shall not be
+deemed or construed to be a waiver of such term or condition for the future or
+any subsequent breach thereof.  All remedies, rights, undertakings, obligations
+and agreements contained in this Agreement shall be cumulative and none of them
+shall be in limitation of any other remedy, right, undertaking, obligation or
+agreement of either Party.
+
+9. GOVERNING LAW, PLACE OF JURISDICTION
+This Agreement shall be construed and shall take effect in accordance with the
+laws of the Federal Republic of Germany excluding the United Nations Convention
+on Contracts for the International Sales of Goods (CISG).  To the extent
+permitted by law, the Courts of Berlin, Germany shall have exclusive
+jurisdiction to resolve any dispute which may arise.
+
+10. ENTIRE AGREEMENT
+This Agreement contains the entire agreement between the Parties. No variation
+of any of the terms or conditions of this Agreement may be made unless such
+variation is agreed in writing and signed by You and the Official HybridOS Programmers.
+
+11. SEVERABILITY
+If any provision of this Agreement is adjudged by a court to be invalid or
+unenforceable, such provision shall in no way affect any other provision of this
+Agreement, the application of such provision in any other circumstance or the
+validity or enforceability of this Agreement.  The Parties will negotiate in
+good faith about a provision that will replace the invalid or unenforceable
+provision.

@@ -1,0 +1,73 @@
+
+
+╔═██  ╔═██          ╔═██                 ╔██      ╔═██ ╔═██████  ╔═██████
+║ ██  ║ ██          ║ ██                 ╚═╝      ║ ██╔╝██══╗ ██╔╝██══╗ ██
+║ ██  ║ ██╔═██  ╔═██║ ███████  ╔═██████  ╔██ ╔═███████║ ██  ║ ██║ ██  ╚══╝
+║ ████████║ ██  ║ ██║ ██══╗ ██╔╝██══╗ ██ ║██╔╝██══╗ ██║ ██  ║ ██╚╗ ██████ 
+║ ██══╗ ██║ ██  ║ ██║ ██  ║ ██║ ██  ╚══╝ ║██║ ██  ║ ██║ ██  ║ ██ ╚════╗ ██
+║ ██  ║ ██║ ██  ║ ██║ ██  ║ ██║ ██       ║██║ ██  ║ ██║ ██  ║ ██╔═██  ║ ██
+║ ██  ║ ██╚╗ ███████║ ███████╝║ ██       ║██╚╗ ███████╚╗ ██████╝╚╗ ██████╝
+╚══╝  ╚══╝ ╚════╗ ██╚═══════╝ ╚══╝       ╚═╝ ╚═══════╝ ╚══════╝  ╚══════╝ 
+           ╔═██ ║ ██                                                     
+           ║ ██████╝                                                      
+           ╚══════╝              
+
+════════════════════════════ IDEAS ════════════════════════════ 
+
+
+These are ideas for future versions of HybridOS. It also shows who thought of them.
+If you make a distro with these in it and we adapt your code, we will credit you.
+You can put your own ideas on the HybridOS board of the CrownTek 
+forums at Crowntek.Boards.Net.
+
+════════════════════════
+
+- New UI (duh): Lewin 7/15/2019
+- Infinite command versatility: Lewin 7/16/2019
+- HybridOS Becoming a real, bootable OS: Alfee 7/27/2019
+
+
+════════════════════════════ IDEAS MADE A REALITY ════════════════════════════ 
+
+- Near infinite command versatility: 
+	Suggested by Lewin 
+	Became a reality on 7/16/2019 by Lewin
+	on version ?
+- Near infinite command versatility 2.0: 
+	Suggested by Lewin 
+	Became a reality on 11/2/2019 by Lewin
+	on version 2.14.2
+
+════════════════════════════ KNOWN BUGS ════════════════════════════
+
+
+These are known bugs of the current version of HybridOS.
+If you make a distro with these fixed and we adapt your code, we will credit you.
+You can also put your code on the HybridOS board of the CrownTek forums at
+Crowntek.Boards.Net.
+
+
+════════════════════════
+
+-- Difference between Green and Yellow/Orange walls of
+   the infobox and HybridOS Logo on the startup screen are misaligned by 1 pixel. 
+	 Found 7/13/2019 by Lewin.
+	 !! PROBABLY UNFIXABLE !!
+
+════════════════════════════ FIXED BUGS ════════════════════════════ 
+
+
+These are bugs fixed after 7/13/2019.
+
+════════════════════════
+
+-- Error message shows on shutdown. Found 10/24/2019 by Lewin. Fixed 11/2/2019 by Lewin.
+
+-- Rope in Hangman misaligned with the Head. Found before 7/13/2019. Fixed 7/13/2019 by Lewin.
+
+-- Shows the "Command not recognized" screen after showing an item/app. Does not happen in gameroom. Found before 7/13/2019. Fixed 7/15/2019 by Lewin.
+
+-- Hanging of man in Hangman starts only at guess 5. Found 7/13/2019. Fixed 7/15/2019 by Lewin.
+
+
+
