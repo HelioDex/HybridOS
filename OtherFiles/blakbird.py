@@ -1,3 +1,7 @@
+
+# now this is REALLY old code, most of this is copied from the internet
+# coded by lewin pre-2018
+
 import urllib.request
 import time
 import random
