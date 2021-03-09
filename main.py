@@ -374,7 +374,7 @@ try:
         print(Fore.YELLOW + "- Alfee Rahman - CEO of ZoNeTech  ║ Co-Founder of HybridOS.")
         print(Fore.CYAN + "- ROBLOX                          ║ Got Lewin into coding.")
         print(Fore.YELLOW + "- Python                          ║ Programming language of HybridOS.")
-        print(Fore.CYAN + "- Creator of Python Hangman       ║ Created Python Hangman.") 
+        print(Fore.CYAN + "- Veysel Nantu                    ║ Created Python Hangman.") 
         print(Fore.YELLOW + "- Creator of Python Magic 8 ball  ║ Created Python Magic 8 ball.")
         print(Fore.CYAN + "- Creator of Python GTN           ║ Created Python Guess The Number.")
         print(Fore.YELLOW + "- Jonathan Hartley                ║ Created Python Colorama package." + Fore.WHITE + "\n")
